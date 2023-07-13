@@ -18,8 +18,7 @@
 - Install [Node](https://nodejs.org/en/)
 - Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Create a new directory on your system
-- Open up any terminal
-- Run the command `git clone https://github.com/User9684/stupid-discord-badge.git && cd stupid-discord-badge`
+- Open up any termina
 - Finally, run the command `npm run run BOT_TOKEN_HERE` (replace BOT_TOKEN_HERE with your [token](#getting-your-token))
 
 #### Getting the badge
