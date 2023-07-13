@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eris": "^0.17.1"
+  },
+  "name": "KpBot",
+  "version": "1.0.0",
+  "description": "Bot Prueba",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm i && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "user#6969",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
